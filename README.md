@@ -1,6 +1,6 @@
 ## Reinforcement-Learning
 
-This repository contains the programming codes used to solve the open AI gym LunarLander-v2 (two independent methods) and CartPole-v1 environments with the use of reinforcement learning.
+This repository contains the programming codes used to solve the OpenAI Gym LunarLander-v2 (two independent methods) and CartPole-v1 environments with the use of reinforcement learning.
 
 List of codes:
 1. main.py: main file to run both environments (comment out the other)
